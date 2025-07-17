@@ -11,7 +11,7 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Easily Access Dell Drivers and Downloads'
+project = 'Dell Drivers and Downloads'
 copyright = '2025, Dell Support Assist'
 author = 'Support team'
 
@@ -21,10 +21,10 @@ release = '1.0.0'
 # -- HTML output settings ----------------------------------------------------
 
 # Title shown in the browser tab and top of HTML pages
-html_title = "How to Easily Access Dell Drivers and Downloads for Your Device?"
+html_title = "Dell Drivers and Downloads: How to Quickly Get the Right Drivers for Your Dell Device"
 
 # Optional short title (e.g., for nav bar)
-html_short_title = "Easily Access Dell Drivers and Downloads"
+html_short_title = "Get the Right Drivers for Your Dell Device"
 
 # Favicon (place favicon.ico in the root or _static folder)
 html_favicon = 'favicon.ico'
